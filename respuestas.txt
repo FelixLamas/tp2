@@ -1,0 +1,1 @@
+no se puede ver el archivo porque esta en otra rama que no se subio al repositorio remoto solo esta en mi maquina
